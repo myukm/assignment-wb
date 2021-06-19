@@ -3,7 +3,8 @@ package assignment;
 public class Constants {
 
     public static String TEST_DATA_FILE_NAME = "/src/main/resources/testData.json";
-    public static String WEB_DRIVER_PATH = "/Users/aakrithi/Desktop/Kiran/assignment/chromedriver";
+    // update the path to chrome driver here
+    public static String WEB_DRIVER_PATH = "/../chromedriver";
     public static String FACEBOOK_URL = "https://www.facebook.com/";
     public static String FACEBOOK_WELCOME_URL = "https://www.facebook.com/?sk=welcome";
     public static String WALLETHUB_LOGIN_URL = "https://wallethub.com/join/login";
