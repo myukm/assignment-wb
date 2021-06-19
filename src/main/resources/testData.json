@@ -1,7 +1,7 @@
 {
   "facebookUserCreds": {
-    "email" : "keyrun.ytc@gmail.com",
-    "password" : "assignment1234"
+    "email" : "username@email.com",
+    "password" : "password1234"
   },
   "FBLoginData" :[
     {
@@ -27,8 +27,8 @@
 
   "reviewMessage" : "New Review444444444Life InsuranceLife InsuranceLife InsuranceLife InsuranceLife InsuranceLife InsuranceLife InsuranceLife InsuranceLife InsuranceLife InsuranceLife InsuranceLife InsuranceLife",
   "walletHubLoginCreds": {
-    "email" : "uddanti.kiran@gmail.com",
-    "password" : "Assignment@01"
+    "email" : "username@email.com",
+    "password" : "password123"
   }
 
 }
