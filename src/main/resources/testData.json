@@ -1,0 +1,34 @@
+{
+  "facebookUserCreds": {
+    "email" : "keyrun.ytc@gmail.com",
+    "password" : "assignment1234"
+  },
+  "FBLoginData" :[
+    {
+      "user_email" : "username@email.com",
+      "user_phone" : "123456789",
+      "password" : "password123"
+    },
+    {
+      "user_email" : "",
+      "user_phone" : "123456789",
+      "password" : "password123"
+    },
+    {
+      "user_email" : "username@email.com",
+      "user_phone" : "",
+      "password" : "password123"
+    }
+
+   ],
+  "postMessages": [
+    "Hello World", "My First Facebook post", "Hello World 1", "My First Facebook post1"
+  ],
+
+  "reviewMessage" : "New Review444444444Life InsuranceLife InsuranceLife InsuranceLife InsuranceLife InsuranceLife InsuranceLife InsuranceLife InsuranceLife InsuranceLife InsuranceLife InsuranceLife InsuranceLife",
+  "walletHubLoginCreds": {
+    "email" : "uddanti.kiran@gmail.com",
+    "password" : "Assignment@01"
+  }
+
+}
